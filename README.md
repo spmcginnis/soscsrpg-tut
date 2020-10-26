@@ -15,3 +15,17 @@
 - Some locations have merchants
 - PCs can trade with merchants
 - Games can be loaded and saved
+
+### Features for later
+- Automated code testing
+- Localization
+- Graphics
+- Crafting: skills, recipes, levels of skill
+- Spellcasting
+- Armor
+- Magic items, including trinkets, scrolls, potions
+- Enchanting items
+- Pets
+- Combat complexity
+- Database storage for world generation
+- Game maker engine
