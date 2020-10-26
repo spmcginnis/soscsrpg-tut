@@ -1,4 +1,4 @@
-##RPG TUTORIAL
+## RPG TUTORIAL
 - A simple text-based RPG in C# following the tutorials at from SOSCSRPG on YouTube.
 
 ### First Version, features
