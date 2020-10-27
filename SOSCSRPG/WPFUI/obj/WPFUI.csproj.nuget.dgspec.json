@@ -4,6 +4,16 @@
     "D:\\Games\\development\\soscsrpg-tut\\SOSCSRPG\\WPFUI\\WPFUI.csproj": {}
   },
   "projects": {
+    "D:\\Games\\development\\soscsrpg-tut\\SOSCSRPG\\Engine\\Engine.csproj": {
+      "restore": {
+        "projectUniqueName": "D:\\Games\\development\\soscsrpg-tut\\SOSCSRPG\\Engine\\Engine.csproj",
+        "projectName": "Engine",
+        "projectPath": "D:\\Games\\development\\soscsrpg-tut\\SOSCSRPG\\Engine\\Engine.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
     "D:\\Games\\development\\soscsrpg-tut\\SOSCSRPG\\WPFUI\\WPFUI.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -26,7 +36,11 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\Games\\development\\soscsrpg-tut\\SOSCSRPG\\Engine\\Engine.csproj": {
+                "projectPath": "D:\\Games\\development\\soscsrpg-tut\\SOSCSRPG\\Engine\\Engine.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

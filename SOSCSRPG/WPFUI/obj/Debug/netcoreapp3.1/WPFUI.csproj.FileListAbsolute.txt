@@ -17,3 +17,6 @@ D:\Games\development\soscsrpg-tut\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.c
 D:\Games\development\soscsrpg-tut\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.dll
 D:\Games\development\soscsrpg-tut\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.pdb
 D:\Games\development\soscsrpg-tut\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.genruntimeconfig.cache
+D:\Games\development\soscsrpg-tut\SOSCSRPG\WPFUI\bin\Debug\netcoreapp3.1\Engine.dll
+D:\Games\development\soscsrpg-tut\SOSCSRPG\WPFUI\bin\Debug\netcoreapp3.1\Engine.pdb
+D:\Games\development\soscsrpg-tut\SOSCSRPG\WPFUI\obj\Debug\netcoreapp3.1\WPFUI.csproj.CopyComplete
