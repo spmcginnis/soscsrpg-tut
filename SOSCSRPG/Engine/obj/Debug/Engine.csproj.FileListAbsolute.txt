@@ -1,0 +1,6 @@
+D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\bin\Debug\Engine.dll
+D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\bin\Debug\Engine.pdb
+D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\obj\Debug\Engine.csprojAssemblyReference.cache
+D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
+D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\obj\Debug\Engine.dll
+D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\obj\Debug\Engine.pdb
