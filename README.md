@@ -29,3 +29,12 @@
 - Combat complexity
 - Database storage for world generation
 - Game maker engine
+
+## Object Classes (nouns)
+- Player Character
+- Location
+- Monster
+- Loot
+- Quest
+- Item
+- Merchant
