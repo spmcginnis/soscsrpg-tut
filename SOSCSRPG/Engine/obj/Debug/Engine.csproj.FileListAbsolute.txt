@@ -4,3 +4,4 @@ D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\obj\Debug\Engine.csprojAssembl
 D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\obj\Debug\Engine.csproj.CoreCompileInputs.cache
 D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\obj\Debug\Engine.dll
 D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\obj\Debug\Engine.pdb
+D:\Games\development\soscsrpg-tut\SOSCSRPG\Engine\obj\Debug\Engine.g.resources
